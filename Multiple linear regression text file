@@ -1,0 +1,15 @@
+ 1. The most common optimization algorithm used in machine learning is stochastic gradient descent.
+ 2. Linear regression is a technique where a straight line used to model the relationship between input and output value.
+ y=b0+b1*x1+b2*x2+b3*x3------+bn*xn
+ 3. coeefecients can be found using stochastic gradient descent
+ 
+ stochastic gradient descent :
+ ------------------------------
+ 4. Gradienr Descent is the process of minimizing a funtion following the slope or gradient of the funtion.
+ 5. In machine learning, we use a technique that evaluates and updates the coefficients every iteration called stochastic gradient descent to minimize the error of a model on our training data.
+ 
+ 6. The model makes a prediction for a training instance, the error is calculated and the model is updated in order to reduce the error for the next prediction. This process is repeated for a fixed number iterations.
+ 
+ 7. This procedure can be used to find the set of coefficient in a model that result in the smallest error for the model on the training data. Each iteration, the coefficient(b) in machine learning will get updated.
+ 
+   b=b-learning rate * error * x
